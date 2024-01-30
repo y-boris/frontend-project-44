@@ -11,8 +11,8 @@ const gameEven = () => {
 
   const isEven = (num) => num % 2 === 0;
 
-  const numberMin = 0;
-  const numberMax = 10;
+  const numberMin = 1;
+  const numberMax = 100;
 
   const getRandomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
 
