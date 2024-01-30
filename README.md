@@ -21,3 +21,13 @@
 ##### Демонстрация игры
 
 [![asciicast](https://asciinema.org/a/H7iIcBBsART28v3TpFs9ySrNy.svg)](https://asciinema.org/a/H7iIcBBsART28v3TpFs9ySrNy)
+
+## Игра "НОД"
+
+Показывается два случайных числа, например, `25 50`. Необходимо вычислить и ввести наибольший общий делитель этих чисел.
+
+Запуск игры: `brain-gcd`
+
+##### Демонстрация игры
+
+[![asciicast](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy.svg)](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy)
