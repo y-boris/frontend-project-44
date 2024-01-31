@@ -1,6 +1,8 @@
-### Hexlet tests and linter status:
+# Игры разума
 
 [![Actions Status](https://github.com/y-boris/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/y-boris/frontend-project-44/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/c9093349ffd71f640109/maintainability)](https://codeclimate.com/github/y-boris/frontend-project-44/maintainability)
+
+«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
 
 ## Игра "Проверка на чётность"
 
