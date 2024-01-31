@@ -31,3 +31,13 @@
 ##### Демонстрация игры
 
 [![asciicast](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy.svg)](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy)
+
+## Игра "Арифметическая прогрессия"
+
+Показывается ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Необходимо определить это число.
+
+Запуск игры: `brain-progression`
+
+##### Демонстрация игры
+
+[![asciicast](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy.svg)](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy)
