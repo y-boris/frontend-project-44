@@ -4,7 +4,7 @@ import playGame from '../index.js';
 const rule = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 
-const correctAnswer = (number1, number2, operator) => {
+const calculate = (number1, number2, operator) => {
   let answer;
 
   switch (operator) {
@@ -31,7 +31,7 @@ const gameQuestionAndAnswer = () => {
   const operation = operators[getRandomNumber(0, operators.length)];
 
   const question = `${number1} ${operation} ${number2}`;
-  const answer = correctAnswer(number1, number2, operation);
+  const answer = calculate(number1, number2, operation);
 
   return [question, answer];
 };

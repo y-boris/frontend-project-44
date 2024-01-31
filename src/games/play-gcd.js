@@ -3,7 +3,7 @@ import playGame from '../index.js';
 
 const rule = 'Find the greatest common divisor of given numbers.';
 
-const correctAnswer = (number1, number2) => {
+const findGreaterCommonDivisor = (number1, number2) => {
   const smaller = Math.min(number1, number2);
   let result = 1;
 
@@ -13,7 +13,7 @@ const correctAnswer = (number1, number2) => {
     }
   }
 
-  return String(result);
+  return result;
 };
 
 const gameQuestionAndAnswer = () => {
@@ -21,9 +21,9 @@ const gameQuestionAndAnswer = () => {
   const number2 = getRandomNumber();
 
   const question = `${number1} ${number2}`;
-  const answer = correctAnswer(number1, number2);
+  const answer = findGreaterCommonDivisor(number1, number2);
 
-  return [question, answer];
+  return [question, String(answer)];
 };
 
 const initGame = () => {
