@@ -4,7 +4,7 @@
 
 ## Игра "Проверка на чётность"
 
-Показывается случайное число. Нужно ответить yes, если число чётное, или no — если нечётное.
+Показывается случайное число. Нужно ответить `yes`, если число чётное, или `no` — если нечётное.
 
 Запуск игры: `brain-even`
 
@@ -41,3 +41,13 @@
 ##### Демонстрация игры
 
 [![asciicast](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy.svg)](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy)
+
+## Игра "Простое ли число?"
+
+Показывается случайное число. Нужно ответить `yes`, если число чётное, или `no` — если нечётное.
+
+Запуск игры: `brain-prime`
+
+##### Демонстрация игры
+
+[![asciicast](https://asciinema.org/a/VsILvVAkNFHpDqdx3gPo5swRj.svg)](https://asciinema.org/a/VsILvVAkNFHpDqdx3gPo5swRj)
