@@ -27,7 +27,6 @@ const gameQuestionAndAnswer = () => {
 
   const question = progression.join(' ');
 
-  console.log('#answer:', answer);
   return [question, String(answer)];
 };
 
