@@ -8,8 +8,6 @@
 
 Запуск игры: `brain-even`
 
-##### Демонстрация игры
-
 [![asciicast](https://asciinema.org/a/kkqgXksq5czrLkY82qx6fBmN3.svg)](https://asciinema.org/a/kkqgXksq5czrLkY82qx6fBmN3)
 
 ## Игра "Проверка на чётность"
@@ -17,8 +15,6 @@
 Показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
 Запуск игры: `brain-calc`
-
-##### Демонстрация игры
 
 [![asciicast](https://asciinema.org/a/H7iIcBBsART28v3TpFs9ySrNy.svg)](https://asciinema.org/a/H7iIcBBsART28v3TpFs9ySrNy)
 
@@ -28,8 +24,6 @@
 
 Запуск игры: `brain-gcd`
 
-##### Демонстрация игры
-
 [![asciicast](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy.svg)](https://asciinema.org/a/YX2DCWspg5mpW7RRt9fDZLbFy)
 
 ## Игра "Арифметическая прогрессия"
@@ -38,8 +32,6 @@
 
 Запуск игры: `brain-progression`
 
-##### Демонстрация игры
-
 [![asciicast](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy.svg)](https://asciinema.org/a/Oev5td0VPekG29CETJtYZQGAy)
 
 ## Игра "Простое ли число?"
@@ -47,7 +39,5 @@
 Показывается случайное число. Нужно ответить `yes`, если число чётное, или `no` — если нечётное.
 
 Запуск игры: `brain-prime`
-
-##### Демонстрация игры
 
 [![asciicast](https://asciinema.org/a/VsILvVAkNFHpDqdx3gPo5swRj.svg)](https://asciinema.org/a/VsILvVAkNFHpDqdx3gPo5swRj)
