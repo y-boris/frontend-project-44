@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
-  "version": "0.0.1",
-  "description": "First project",
+  "version": "1.0.0",
+  "description": "5 CLI brain games",
   "type": "module",
   "main": "index.js",
   "scripts": {
