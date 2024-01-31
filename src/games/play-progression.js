@@ -14,10 +14,10 @@ const buildProgression = (number, step, length) => {
 };
 
 const gameQuestionAndAnswer = () => {
-  const progressionLength = getRandomNumber(4, 9);
+  const progressionLength = getRandomNumber(5, 10);
 
   const firstNumber = getRandomNumber();
-  const progressionStep = getRandomNumber(1, 9);
+  const progressionStep = getRandomNumber(1, 10);
   const hiddenElement = getRandomNumber(1, progressionLength);
 
   const progression = buildProgression(firstNumber, progressionStep, progressionLength);
@@ -27,6 +27,7 @@ const gameQuestionAndAnswer = () => {
 
   const question = progression.join(' ');
 
+  console.log('#answer:', answer);
   return [question, String(answer)];
 };
 
